@@ -29,4 +29,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="16dp"/>
+    <TextView
+        android:id="@+id/tvCallLog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="Nhật ký cuộc gọi:"/>
+
+    <TextView
+        android:id="@+id/tvContacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="Danh bạ:"/>
 </LinearLayout>
